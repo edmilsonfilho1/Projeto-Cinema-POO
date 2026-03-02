@@ -22,4 +22,77 @@ public class Usuario{
         this.codigoCartao = codigoCartao;
         this.idade = idade;
     }
+
+    public String getUser(){
+        return user; 
+    }
+
+    public String getCpf(){
+        return cpf; 
+    }
+
+    public String getSenha(){
+        return senha; 
+    }
+
+    public String getSexo(){
+        return sexo; 
+    }
+
+    public String getEmail(){
+        return email; 
+    }
+
+    public String getNomeCartao(){
+        return nomeCartao; 
+    }
+
+    public String getNumeroCartao(){
+        return numeroCartao; 
+    }
+
+    public String getCodigoCartao(){
+        return codigoCartao; 
+    }
+
+    public int getIdade(){
+        return idade; 
+    }
+
+    public void setUser(){
+        this.user = user;
+    }
+
+     public void setCpf(){
+        this.cpf = cpf;
+    }
+
+    public void setSenha(){
+        this.senha = senha; 
+    }
+
+    public void setSexo(){
+        this.sexo = sexo; 
+    }
+
+    public void setEmail(){
+        this.email = email; 
+    }
+
+    public void setNomeCartao(){
+        this.nomeCartao = nomeCartao; 
+    }
+
+    public void setNumeroCartao(){
+        this.numeroCartao = numeroCartao; 
+    }
+
+    public void setCodigoCartao(){
+        this.codigoCartao = codigoCartao; 
+    }
+
+    public void setIdade(){
+        this.idade = idade; 
+    }
+
 }

@@ -15,11 +15,11 @@ public class Usuario{
         this.user = user;
         this.cpf = cpf;
         this.senha = senha;
-        this.idade = idade;
         this.sexo = sexo;
         this.email = email;
         this.nomeCartao = nomeCartao;
         this.numeroCartao = numeroCartao;
         this.codigoCartao = codigoCartao;
+        this.idade = idade;
     }
 }

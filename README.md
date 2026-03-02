@@ -14,9 +14,10 @@ utilizando conceitos de Programação Orientada a Objetos (POO) em Java.
 
 <h2>Diário de Bordo</h2>
 
-<h3>Data: ____ / ____ / ______</h3>
+<h3>Data: __02__ / __03__ / _2026_____</h3>
 <ul>
-  <li></li>
+  <li>Criação dos esqueleto do projeto (criação do repisitório e organização das pastas)</li>
+  <li>Criação das classes Main, Filme e Usuario, junto com seus atributos e getters/setters</li>
 </ul>
 
 <h3>Data: ____ / ____ / ______</h3>

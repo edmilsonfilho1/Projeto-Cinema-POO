@@ -26,8 +26,8 @@ public class Filme {
         return sinopse; 
     }
 
-    public int valorIngresso(){
-        return valorIngresso; 
+    public int getValorIngresso() {
+        return valorIngresso;
     }
 
     public void setNomeFilme(){

@@ -20,9 +20,9 @@ utilizando conceitos de Programação Orientada a Objetos (POO) em Java.
   <li>Criação das classes Main, Filme e Usuario, junto com seus atributos e getters/setters</li>
 </ul>
 
-<h3>Data: ____ / ____ / ______</h3>
+<h3>Data: __04__ / __03__ / ___2026___</h3>
 <ul>
-  <li></li>
+  <li>Criação da classe bilhete com seus atributos, getters e setters</li>
 </ul>
 
 <h3>Data: ____ / ____ / ______</h3>

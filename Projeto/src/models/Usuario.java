@@ -92,7 +92,11 @@ public class Usuario{
     }
 
     public void setIdade(){
-        this.idade = idade; 
+        if(idade < 0) {
+            System.out.println("Idade inválida!");
+        } else {
+            this.idade = idade;
+        }
     }
 
 }
